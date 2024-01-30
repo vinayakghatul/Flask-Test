@@ -1,0 +1,7 @@
+{
+    "Gender" : "Male",
+    "Married" : "Unmarried",
+    "ApplicantIncome" : 50000,
+    "Credit_History" : "Cleared Debts",
+    "LoanAmount" : 500000
+}
